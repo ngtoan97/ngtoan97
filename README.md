@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Toan Nguyen. I am an Information Security engineer.<br>
+My name is Toan Nguyen. I am an Information Security Engineer.<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/to%C3%A0n-nguy%E1%BB%85n-kh%E1%BA%AFc-2b84a4175/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ngtoan97/)
