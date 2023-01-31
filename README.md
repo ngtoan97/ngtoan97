@@ -1,16 +1,14 @@
-### Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+My name is Toan Nguyen. I am an Information Security engineer.<br>
+## 📫 How to reach me: 
 
-<!--
-**ngtoan97/ngtoan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/to%C3%A0n-nguy%E1%BB%85n-kh%E1%BA%AFc-2b84a4175/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ngtoan97/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Toan's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ngtoan97&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+<a href="https://github.com/ngtoan97/utt-project">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngtoan97&repo=utt-project&theme=radical" />
+</a>    
